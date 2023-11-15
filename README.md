@@ -1,4 +1,4 @@
-### Hi there 👋
+### In 11/2023 i decided to end being programmer, but sometimes i write some exploit from public CVE for fun
 
 <!--
 **jsadlocha/jsadlocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
